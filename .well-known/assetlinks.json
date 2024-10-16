@@ -1,0 +1,12 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "rs.yettelbank.app",
+        "sha256_cert_fingerprints": [
+          "0F:95:1E:C7:9F:F2:E2:D2:FA:70:FE:21:73:03:0F:34:A1:B5:9C:CF:A7:BE:72:99:BA:97:25:A3:ED:61:17:76"
+        ]
+      }
+    }
+  ]
